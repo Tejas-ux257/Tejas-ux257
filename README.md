@@ -1,4 +1,4 @@
-<!-- 🌟 TEJAS SHETTY | Interactive GitHub Profile -->
+<!-- 🌟 TEJAS KUMAR D | Interactive GitHub Profile -->
 
 <h1 align="center">Hi there 👋, I'm <a href="https://tejas-ux257.github.io/personal-portfolio/" target="_blank">Tejas Shetty</a></h1>
 <h3 align="center">🚀 Python Developer | Machine Learning | Django | React Enthusiast</h3>
