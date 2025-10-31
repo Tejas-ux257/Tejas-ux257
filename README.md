@@ -14,7 +14,7 @@
   <a href="https://tejas-ux257.github.io/personal-portfolio/" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-00C0FF?style=for-the-badge"></a>
   <a href="mailto:dtejasshetty257@gmail.com"><img src="https://img.shields.io/badge/📧_Email-dtejasshetty257%40gmail.com-red?style=for-the-badge"></a>
   <a href="https://linkedin.com/in/tejas-shetty"><img src="https://img.shields.io/badge/💼_LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/Tejas-ux257"><img src="https://img.shields.io/badge/🐙_GitHub-171515?style=for-the-badge&logo=github"></a>
+ 
 </p>
 
 ---
@@ -30,7 +30,7 @@
 
 ### ⚙️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,react,html,css,js,bootstrap,tailwind,mysql,git,github,vscode,linux,postman&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,react,html,css,,mysql,git,github,vscode," />
 </p>
 
 ---
