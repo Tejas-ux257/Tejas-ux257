@@ -83,8 +83,8 @@
 ### 📚 Currently Learning  
 - 🤖 Machine Learning & Deep Learning  
 - 🌍 Django REST Framework for APIs  
-- ⚡ React + Tailwind for Frontend Integration  
-- ☁️ Cloud Deployment (Render, AWS, Vercel)
+- ⚡ React + Node.js
+- ☁️ Cloud Deployment ( AWS )
 
 ---
 
@@ -100,7 +100,7 @@
 <summary>Click to view 🥇</summary>
 
 - 🥇 Completed **CODTECH Internship** – Python Automation & ML Projects  
-- 🚀 Developed **10+ Real-world Projects** in Python, ML, and Web Tech  
+- 🚀 Developed **5+ Real-world Projects** in Python, ML, and Web Tech  
 - 👨‍🏫 Conducted college workshop on “Intro to Python and AI Automation”  
 - 📈 Consistent academic performer in Computer Science Engineering  
 
