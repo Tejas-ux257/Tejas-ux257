@@ -1,7 +1,7 @@
 <!-- 🌟 TEJAS KUMAR D | Interactive GitHub Profile -->
 
 <h1 align="center">Hi there 👋, I'm <a href="https://tejas-ux257.github.io/personal-portfolio/" target="_blank">Tejas Shetty</a></h1>
-<h3 align="center">🚀 Python Developer | Machine Learning | Django | React Enthusiast</h3>
+<h3 align="center">🚀 Python Developer | Machine Learning | Django & Flask | AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C0FF&center=true&vCenter=true&width=600&lines=Turning+ideas+into+automation+✨;Python+Developer+and+ML+Engineer+💻;Building+AI-powered+Web+Apps+with+Django+%26+React+🔥;Always+learning+and+creating+🚀">
@@ -30,7 +30,7 @@
 
 ### ⚙️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,react,html,css,NOsql,git,github,vscode," />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,react,html,css,nosql,git,github,vscode," />
 </p>
 
 ---
@@ -119,5 +119,5 @@
 
 ---
 
-⭐️ From [**Tejas Shetty**](https://tejas-ux257.github.io/personal-portfolio/)
+⭐️ From [**Tejas kumar d**](https://tejas-ux257.github.io/personal-portfolio/)
 
