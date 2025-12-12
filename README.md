@@ -43,6 +43,7 @@
 | 🎮 **Blackjack Game with Login System** | Python CLI game using MySQL & bcrypt authentication, stores scores and history. |
 | 💼 **Open Source Job Portal** *(Ongoing)* | Django + React-based job platform for recruiters & seekers with filtering mechanism. |
 
+
 ---
 
 ### 📊 GitHub Analytics  
@@ -83,7 +84,7 @@
 ### 📚 Currently Learning  
 - 🤖 Machine Learning & Deep Learning  
 - 🌍 Django REST Framework for APIs  
-- ⚡ React + Node.js
+- ⚡ React js
 - ☁️ Cloud Deployment ( AWS )
 
 ---
