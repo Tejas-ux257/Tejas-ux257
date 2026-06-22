@@ -38,6 +38,7 @@ Python Backend Developer | Full Stack Developer | Computer Science Student
 - 💼 LinkedIn: https://linkedin.com/in/tejas-kumar-d-aa0694343
 - 📧 Email: dtejasshetty257@gmail.com
 - 💻 GitHub: https://github.com/Tejas-ux257
+- 🏆 LeetCode Journey :https://leetcode.com/u/Tejas_257/
 
 ---
 
