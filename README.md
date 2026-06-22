@@ -24,6 +24,7 @@ Python Backend Developer | Full Stack Developer | Computer Science Student
 - Docker
 - Cloud Deployment (AWS)
 - System Design Fundamentals
+- Artifical Intelligents
 
 🎯 Looking for:
 - Software Engineer Roles
